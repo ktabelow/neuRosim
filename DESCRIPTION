@@ -4,9 +4,10 @@ Title: Functions to Generate fMRI Data Including Activated Data, Noise
         Data and Resting State Data
 Version: 0.2-12
 Date: 2015-01-09
-Author: Marijke Welvaert with contributions from Joke Durnez, Beatrijs
-        Moerkerke, Yves Rosseel and Geert Verdoolaege
-Maintainer: Marijke Welvaert <marijke.welvaert@gmail.com>
+Author: Marijke Welvaert <marijke.welvaert@gmail.com> with contributions 
+from Joke Durnez, Beatrijs
+        Moerkerke, Yves Rosseel, Karsten Tabelow, and Geert Verdoolaege
+Maintainer: Karsten Tabelow <karsten.tabelow@wias-berlin.de>
 Depends: R (>= 3.1.1), deSolve
 Description: The package allows users to generate fMRI time series or 4D data. Some high-level functions are created for fast data generation with only a few arguments and a diversity of functions to define activation and noise. For more advanced users it is possible to use the low-level functions and manipulate the arguments.
 License: GPL (>= 2)
