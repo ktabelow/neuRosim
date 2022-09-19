@@ -1,4 +1,4 @@
-7da89a7b4bb9b41d7dc2525acb55da6d *DESCRIPTION
+625e471899e7c01359f1cfcc29d8987f *DESCRIPTION
 593d51b3ab7645beeace6ee5512c3f93 *NAMESPACE
 1e9ae0e24f62ce86a57441d0bf2cc246 *R/balloon.R
 95e3b9d3ed2445bb049f3fe228b05287 *R/canonicalHRF.R
@@ -23,7 +23,7 @@ fb1fa1c4f3b5d6fa0a9d31689205ff2f *R/temporalnoise.R
 6bab572ca22684f1c179e94c88b88d53 *inst/CITATION
 ad4f572d9a038744b052e7de2a26e783 *man/GaussSmoothKernel.Rd
 260ba44c45156e3b88353e04f6f0411f *man/Sim.3D.GRF.Rd
-e95929a7d9576a30c5ada4c1bd4ee18e *man/balloon.Rd
+5b4a8be86a3036339ef63351463f873a *man/balloon.Rd
 f08b606084bb4a1a6f6ff274a9e93bbe *man/canonicalHRF.Rd
 27b051fa2c95fd3bf470327b9868c1ea *man/gammaHRF.Rd
 d0dd592bd90a5859fdc9f446eede8add *man/lowfreqdrift.Rd
@@ -43,3 +43,4 @@ e82b58234f119449e236b34b0fc2152b *man/specifyregion.Rd
 35be7e818048e3a8f4235a7bbbb8cd5d *man/tasknoise.Rd
 ce222bcdc1dabcc6a392af5ee063ce3f *man/temporalnoise.Rd
 abb546ab83bf74354d1f5b794cd673d6 *src/sim.3d.GRF.c
+6357992acc322f08c6249685179813ac *src/init.c
