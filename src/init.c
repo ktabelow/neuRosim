@@ -16,4 +16,4 @@ void R_init_neurosim(DllInfo *info) {
   R_registerRoutines(info,
                      cMethods, NULL, NULL, NULL);
   R_useDynamicSymbols(info, TRUE);
-};
+}
