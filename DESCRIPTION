@@ -1,15 +1,19 @@
 Package: neuRosim
 Type: Package
-Title: Functions to Generate fMRI Data Including Activated Data, Noise
-        Data and Resting State Data
+Title: Simulate fMRI Data
 Version: 0.2-13
 Date: 2022-09-02
-Author: Marijke Welvaert <marijke.welvaert@gmail.com> with contributions 
-        from Joke Durnez, Beatrijs Moerkerke, Yves Rosseel, Karsten 
-        Tabelow, and Geert Verdoolaege
-Maintainer: Karsten Tabelow <karsten.tabelow@wias-berlin.de>
+Authors@R: c(person("Marijke", "Welvaert", role = c("aut"),
+                    email = "marijke.welvaert@gmail.com"),
+             person("Joke", "Durnez", role = c("ctb")),
+             person("Beatrijs", "Moerkerke", role = c("ctb")),
+             person("Yves", "Rosseel", role = c("ctb")),
+             person("Karsten", "Tabelow", role = c("ctb", "cre"),
+                    email = "karsten.tabelow@wias-berlin.de"),
+             person("Geert", "Verdoolaege", role = c("ctb")))
 Depends: R (>= 3.1.1), deSolve
-Description: Generates fMRI time series or 4D data. Some high-level 
+Description: Generates functional Magnetic Resonance Imaging (fMRI) 
+             time series or 4D data. Some high-level 
              functions are created for fast data generation with only 
              a few arguments and a diversity of functions to define 
              activation and noise. For more advanced users it is possible 
