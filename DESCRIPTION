@@ -1,8 +1,8 @@
 Package: neuRosim
 Type: Package
 Title: Simulate fMRI Data
-Version: 0.2-13
-Date: 2022-09-02
+Version: 0.2-14
+Date: 2023-10-18
 Authors@R: c(person("Marijke", "Welvaert", role = c("aut"),
                     email = "marijke.welvaert@gmail.com"),
              person("Joke", "Durnez", role = c("ctb")),
